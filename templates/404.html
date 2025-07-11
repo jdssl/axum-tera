@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head><title>Axum + Tera</title></head>
-<body>
-  <h1>Oops! 404!!!</h1>
-</body>
-</html>
+{% extends "partials/base.html" %}
 
+{% block title %}Error 404{% endblock %}
+
+{% block content %}
+    <h1>Oops, page not found!</h1>
+{% endblock %}
