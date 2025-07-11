@@ -7,3 +7,6 @@ Repository for experiments with Axum and Tera.
 1. Using URL parameters inside HTML templates.
 2. Custom 404 error fallback handling.
 
+## Credits
+
+Thank you, [Jônatas Oliveira](https://github.com/jonatasoli) for creating [femtocat](https://github.com/jonatasoli/femtocat-css).
